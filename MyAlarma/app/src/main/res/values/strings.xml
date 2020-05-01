@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyAlarma</string>
+    <string name="txttitulo">Escriba el titulo de la alarma</string>
+</resources>
